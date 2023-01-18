@@ -17,3 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://katalon.com/')
+
+WebUI.click(findTestObject('Object Repository/Page_Katalon Software Quality Management Platform/a_Log in'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Sign in  Katalon Software Quality Mana_cfddb7/input_Welcome back_user_email'), 
+    'sjagtap@kognivera.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in  Katalon Software Quality Mana_cfddb7/input_Valid email is required to activate p_255484'), 
+    'dopgMZS9m+09JXg4SNc9zA==')
+
+WebUI.click(findTestObject('Object Repository/Page_Sign in  Katalon Software Quality Mana_cfddb7/input_Incorrect email or password. Please t_566e02'))
+
+WebUI.click(findTestObject('Object Repository/Page_Projects - Katalon Platform/span_SJ'))
+
+WebUI.click(findTestObject('Object Repository/Page_Projects - Katalon Platform/a_View Profile'))
+
+WebUI.click(findTestObject('Object Repository/Page_My Profile - Katalon Platform/button_Log Out'))
+
