@@ -31,9 +31,18 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in  Katalon S
 
 WebUI.click(findTestObject('Object Repository/Page_Sign in  Katalon Software Quality Mana_cfddb7/input_Incorrect email or password. Please t_566e02'))
 
-WebUI.click(findTestObject('Object Repository/Page_Projects - Katalon Platform/span_SJ'))
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in  Katalon Software Quality Mana_cfddb7/input_Valid email is required to activate p_255484'), 
+    'dopgMZS9m+09JXg4SNc9zA==')
 
-WebUI.click(findTestObject('Object Repository/Page_Projects - Katalon Platform/a_View Profile'))
+WebUI.click(findTestObject('Object Repository/Page_My Organization_01 - Katalon TestOps/span_SJ'))
+
+WebUI.click(findTestObject('Object Repository/Page_My Organization_01 - Katalon TestOps/a_View Profile'))
+
+WebUI.switchToWindowTitle('My Profile - Katalon Platform')
+
+WebUI.click(findTestObject('Object Repository/Page_My Profile - Katalon Platform/p_Log Out'))
 
 WebUI.click(findTestObject('Object Repository/Page_My Profile - Katalon Platform/button_Log Out'))
+
+WebUI.closeBrowser()
 

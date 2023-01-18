@@ -3,7 +3,7 @@
    <description></description>
    <name>span_SJ</name>
    <tag></tag>
-   <elementGuidId>b3056d46-2926-46cc-bc17-bbe4c14c07d9</elementGuidId>
+   <elementGuidId>d0b80c6b-1f45-4b0a-87c6-5f76b520991d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>d8b2e40f-382d-4344-8d26-3f059a3c03c2</webElementGuid>
+      <webElementGuid>c6a48c83-7075-4ff1-8d09-931fcd0a7f88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-rnd-last-action-id</name>
       <type>Main</type>
-      <value>80af8085-f978-4a74-b77f-ff463bbfd6db</value>
-      <webElementGuid>38faa9aa-2426-420c-bfbc-3facae9f4f78</webElementGuid>
+      <value>8fb040ff-14b6-4728-8038-9c3a7a7ccd13</value>
+      <webElementGuid>7182bcae-1962-4b5c-8170-7c2e97c794ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>SJ</value>
-      <webElementGuid>ef584257-3062-42b4-8310-a9614ae8c7ec</webElementGuid>
+      <webElementGuid>b5cd7d68-49ce-4be5-bac9-f5e884ed0b6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;top-right-navbar&quot;)/button[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeLarge css-resnt5&quot;]/div[@class=&quot;avatar&quot;]/div[@class=&quot;rounded-circle sb-avatar sb-avatar--text&quot;]/div[@class=&quot;rounded-circle sb-avatar__text&quot;]/div[1]/span[1]</value>
-      <webElementGuid>c2049ed2-6977-4506-bb1e-5810ea3be8e0</webElementGuid>
+      <webElementGuid>175a3a5d-3a49-4c55-9b6c-581d9fe65ffb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,15 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='top-right-navbar']/button[2]/div/div/div/div/span</value>
-      <webElementGuid>06f40b5a-19ef-435b-814f-dc32ed36c8fb</webElementGuid>
+      <webElementGuid>55933fa2-5157-4f73-97d8-a6c4b3ec8b18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Studio'])[1]/following::span[4]</value>
+      <webElementGuid>76edc832-c125-4bf2-bc70-2bc46d23a9ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,15 +70,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='My Organization_01'])[1]/following::span[6]</value>
-      <webElementGuid>72aba051-0b87-42a7-bfcb-6d7a2387373f</webElementGuid>
+      <webElementGuid>3bef7beb-392f-4406-bd7b-d8c93b63512f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Teams'])[1]/preceding::span[7]</value>
-      <webElementGuid>7aec700a-9198-4a09-9b19-fc82dce58435</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to My Organization_01'])[1]/preceding::span[5]</value>
+      <webElementGuid>978fb0a6-303a-46e9-85c8-df552b9366d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/span</value>
-      <webElementGuid>cc10c35d-e054-491e-b03f-50edc222cd7a</webElementGuid>
+      <webElementGuid>97afea4a-3aa8-43c6-882e-53a4cfd44ac7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'SJ' or . = 'SJ')]</value>
-      <webElementGuid>f9e7a600-0259-4a75-863c-6490ded03fd1</webElementGuid>
+      <webElementGuid>6da1f296-0997-4211-aa96-3b302273f7d9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

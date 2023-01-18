@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>c9ee6bc0-661c-459e-b6af-e50ffa7d2201</webElementGuid>
+      <webElementGuid>94499f1d-7349-48b6-abf6-6c7cef67181f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn_login</value>
-      <webElementGuid>09442744-f095-454f-8bdd-98ad7f63393e</webElementGuid>
+      <webElementGuid>2c024589-9c63-4e3b-becf-6ba8e88800e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/sign-in</value>
-      <webElementGuid>8614b9b4-d59c-4954-963b-c23263fcc248</webElementGuid>
+      <webElementGuid>6e6d151b-d3ec-4f9b-90cd-3d350534747d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Log in</value>
-      <webElementGuid>6b435977-38a8-463a-8048-2a5019f79c1b</webElementGuid>
+      <webElementGuid>d4856441-a435-4fc9-8322-a4caae8f3b4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;katalon_header&quot;)/section[@class=&quot;homepage_banner&quot;]/div[@class=&quot;wrap_container&quot;]/div[@class=&quot;right_content&quot;]/a[@class=&quot;btn_login&quot;]</value>
-      <webElementGuid>277ed39f-1f88-438e-835d-43d11aa2fcbf</webElementGuid>
+      <webElementGuid>753afc45-d258-4c07-b053-63b489853d0e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='katalon_header']/section/div/div[2]/a[2]</value>
-      <webElementGuid>a920fe97-220c-4a9e-8e51-ef95fc46eda1</webElementGuid>
+      <webElementGuid>b190597f-a45e-4fba-bd08-a48f13833046</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Log in')]</value>
-      <webElementGuid>14ff6b19-55f8-4e89-b7aa-1f91ccfb10c1</webElementGuid>
+      <webElementGuid>ffd95c85-34a4-4949-9aa0-394dc288d9e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Support'])[1]/following::a[1]</value>
-      <webElementGuid>328ec9e1-c14f-43ad-a2c8-ed078046e04c</webElementGuid>
+      <webElementGuid>1e5932df-bb79-4df5-80ad-cae7d068bd6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='JOIN NOW!'])[1]/following::a[2]</value>
-      <webElementGuid>971636c7-81cb-44a5-98d0-9b0d6989ebf2</webElementGuid>
+      <webElementGuid>8e0b3b1f-79fe-4616-ba43-729197f50a19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Why Katalon'])[1]/preceding::a[2]</value>
-      <webElementGuid>5390234a-b19b-4b99-8a70-ac41c60fbc70</webElementGuid>
+      <webElementGuid>1f2fc10d-c585-424a-904e-980b0653bf43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Why Katalon'])[2]/preceding::a[2]</value>
-      <webElementGuid>d266f570-4600-4569-bff5-ad1f6249dab1</webElementGuid>
+      <webElementGuid>4f352395-9b00-4371-9a13-42460c959dc8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Log in']/parent::*</value>
-      <webElementGuid>3762b4d9-4e09-464f-ab58-cffea226b07d</webElementGuid>
+      <webElementGuid>fff2600a-f510-450d-8afb-b1082d687812</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/sign-in')]</value>
-      <webElementGuid>b2952b48-cdbd-4011-9ec5-1fb70f61fcbf</webElementGuid>
+      <webElementGuid>ec276ce6-da32-436a-92a8-4f822e484bd8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]</value>
-      <webElementGuid>8de0ba81-6bca-42a9-aafd-589465884e9f</webElementGuid>
+      <webElementGuid>69f44084-aa09-4601-822c-a9d210b757a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/sign-in' and (text() = 'Log in' or . = 'Log in')]</value>
-      <webElementGuid>4fd01a62-a06a-4998-9668-b277f4731a1d</webElementGuid>
+      <webElementGuid>4c264fa0-32f9-413d-a7bc-cb851680542a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

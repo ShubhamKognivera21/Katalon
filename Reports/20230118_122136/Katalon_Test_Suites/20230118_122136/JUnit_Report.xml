@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Katalon_Test_Suites" time="43.878" tests="1" failures="0" errors="0">
+   <testsuite name="Katalon_Test_Suites" tests="1" failures="0" errors="0" time="43.878" skipped="0" timestamp="2023-01-18 12:21:39" hostname="OrCon - DESKTOP-GCTNA4S.mshome.net" id="Test Suites/Katalon_Test_Suites">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\Github\\Katalon\\Reports\\20230118_122136\\Katalon_Test_Suites\\20230118_122136"/>
+         <property name="logFiles" value="D:\\Github\\Katalon\\Reports\\20230118_122136\\Katalon_Test_Suites\\20230118_122136\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="OrCon - DESKTOP-GCTNA4S.mshome.net"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.5.208"/>
+         <property name="browser" value="Chrome 109.0.0.0"/>
+         <property name="hostAddress" value="172.24.16.1"/>
+         <property name="sessionId" value="0832fbfdee11607a0c202d946f52d634"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Katalon Test" time="43.536" classname="Test Cases/Katalon Test" status="PASSED">
+         <system-out><![CDATA[2023-01-18 12:21:39 - [TEST_CASE][PASSED] - Test Cases/Katalon Test: Test Cases/Katalon Test
+
+2023-01-18 12:21:39 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-01-18 12:21:40 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-01-18 12:21:40 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-01-18 12:21:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-01-18 12:21:43 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon.com/"): Navigate to 'https://katalon.com/' successfully
+
+2023-01-18 12:21:51 - [MESSAGE][PASSED] - Navigate to 'https://katalon.com/' successfully
+
+2023-01-18 12:21:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Katalon Software Quality Management Platform/a_Log in")): Object: 'Object Repository/Page_Katalon Software Quality Management Platform/a_Log in' is clicked on
+
+2023-01-18 12:21:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Katalon Software Quality Management Platform/a_Log in' is clicked on
+
+2023-01-18 12:21:54 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sign in  Katalon Software Quality Mana_cfddb7/input_Welcome back_user_email"), "sjagtap@kognivera.com"): Text 'sjagtap@kognivera.com' is set on object 'Object Repository/Page_Sign in  Katalon Software Quality Mana_cfddb7/input_Welcome back_user_email'
+
+2023-01-18 12:21:56 - [MESSAGE][PASSED] - Text 'sjagtap@kognivera.com' is set on object 'Object Repository/Page_Sign in  Katalon Software Quality Mana_cfddb7/input_Welcome back_user_email'
+
+2023-01-18 12:21:56 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Sign in  Katalon Software Quality Mana_cfddb7/input_Valid email is required to activate p_255484"), "dopgMZS9m+09JXg4SNc9zA=="): Text ****** has been set on object 'Object Repository/Page_Sign in  Katalon Software Quality Mana_cfddb7/input_Valid email is required to activate p_255484'
+
+2023-01-18 12:21:57 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Sign in  Katalon Software Quality Mana_cfddb7/input_Valid email is required to activate p_255484'
+
+2023-01-18 12:21:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign in  Katalon Software Quality Mana_cfddb7/input_Incorrect email or password. Please t_566e02")): Object: 'Object Repository/Page_Sign in  Katalon Software Quality Mana_cfddb7/input_Incorrect email or password. Please t_566e02' is clicked on
+
+2023-01-18 12:21:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in  Katalon Software Quality Mana_cfddb7/input_Incorrect email or password. Please t_566e02' is clicked on
+
+2023-01-18 12:21:57 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Sign in  Katalon Software Quality Mana_cfddb7/input_Valid email is required to activate p_255484"), "dopgMZS9m+09JXg4SNc9zA=="): Text ****** has been set on object 'Object Repository/Page_Sign in  Katalon Software Quality Mana_cfddb7/input_Valid email is required to activate p_255484'
+
+2023-01-18 12:22:00 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Sign in  Katalon Software Quality Mana_cfddb7/input_Valid email is required to activate p_255484'
+
+2023-01-18 12:22:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_My Organization_01 - Katalon TestOps/span_SJ")): Object: 'Object Repository/Page_My Organization_01 - Katalon TestOps/span_SJ' is clicked on
+
+2023-01-18 12:22:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_My Organization_01 - Katalon TestOps/span_SJ' is clicked on
+
+2023-01-18 12:22:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_My Organization_01 - Katalon TestOps/a_View Profile")): Object: 'Object Repository/Page_My Organization_01 - Katalon TestOps/a_View Profile' is clicked on
+
+2023-01-18 12:22:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_My Organization_01 - Katalon TestOps/a_View Profile' is clicked on
+
+2023-01-18 12:22:11 - [TEST_STEP][PASSED] - switchToWindowTitle("My Profile - Katalon Platform"): Switched to window with title: 'My Profile - Katalon Platform'
+
+2023-01-18 12:22:16 - [MESSAGE][PASSED] - Switched to window with title: 'My Profile - Katalon Platform'
+
+2023-01-18 12:22:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_My Profile - Katalon Platform/p_Log Out")): Object: 'Object Repository/Page_My Profile - Katalon Platform/p_Log Out' is clicked on
+
+2023-01-18 12:22:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_My Profile - Katalon Platform/p_Log Out' is clicked on
+
+2023-01-18 12:22:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_My Profile - Katalon Platform/button_Log Out")): Object: 'Object Repository/Page_My Profile - Katalon Platform/button_Log Out' is clicked on
+
+2023-01-18 12:22:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_My Profile - Katalon Platform/button_Log Out' is clicked on
+
+2023-01-18 12:22:22 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-01-18 12:22:22 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-01-18 12:21:39 - [TEST_SUITE][PASSED] - Katalon_Test_Suites: Test Cases/Katalon Test]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

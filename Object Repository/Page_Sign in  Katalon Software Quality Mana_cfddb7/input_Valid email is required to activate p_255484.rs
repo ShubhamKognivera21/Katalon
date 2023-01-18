@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>8a56301a-def2-4368-92a9-6975f89220e5</webElementGuid>
+      <webElementGuid>eee53f1d-eef2-40cb-8d9d-748c2afb29f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>5a91f24d-9aad-493b-a0ff-8ecc7ca8a430</webElementGuid>
+      <webElementGuid>d5c051db-08ca-46ce-a567-22ac42069018</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>user_pass</value>
-      <webElementGuid>5db1ff82-9136-4fda-a591-1dcc0472ac63</webElementGuid>
+      <webElementGuid>ac3bb2b3-868b-4711-a24b-36db8768b832</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>signin_password</value>
-      <webElementGuid>5af3671a-4dfc-4e6f-9ad1-35554ffefebd</webElementGuid>
+      <webElementGuid>5e12e8a4-908b-44b2-9598-6cde532fef1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Password</value>
-      <webElementGuid>f41a7d6c-684b-48ef-b477-100271ede00c</webElementGuid>
+      <webElementGuid>564cf654-c893-49d7-bfb2-61569b8d990a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>min</name>
       <type>Main</type>
       <value>6</value>
-      <webElementGuid>c57dcd63-c99b-4930-966f-d3e57e201437</webElementGuid>
+      <webElementGuid>0ba7206a-ca1d-499b-adfc-8a135dacff21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>value</name>
       <type>Main</type>
       <value>S</value>
-      <webElementGuid>bac1a851-339c-43b0-bf0b-b0919ed7af9f</webElementGuid>
+      <webElementGuid>5c1989e6-1555-4961-85bb-2e618061d49e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>data-rnd-changed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>e2e78aa3-d3fe-40fe-942a-9c4a97675524</webElementGuid>
+      <webElementGuid>6af32cd9-2cb0-4ab4-8a44-a47343ea4b6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;signin_password&quot;)</value>
-      <webElementGuid>8e6b271f-cae7-448f-bf20-08f118ea82de</webElementGuid>
+      <webElementGuid>a18a74bc-2a1d-4538-af84-141b776f801f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='signin_password']</value>
-      <webElementGuid>96b3a8dd-fb18-43f9-8a1c-06aeee126b43</webElementGuid>
+      <webElementGuid>b539c65e-2708-4683-a7e6-d67e14984dc2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/main/div/div[3]/div/form/div[2]/input</value>
-      <webElementGuid>4281ddcd-3111-46fe-b483-4cb66d733548</webElementGuid>
+      <webElementGuid>79f8945e-5b68-43dc-a998-246e10103774</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>d69de0fe-3929-4fe4-8701-3f16f59b51d3</webElementGuid>
+      <webElementGuid>c0cbb335-ecda-487a-9802-31ff54c8459d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @name = 'user_pass' and @id = 'signin_password' and @placeholder = 'Password']</value>
-      <webElementGuid>fa4f5c24-a7d8-4d69-b138-6f3d49021007</webElementGuid>
+      <webElementGuid>384fd8d5-60dc-4dbb-85a5-0e0acc9d3e4c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

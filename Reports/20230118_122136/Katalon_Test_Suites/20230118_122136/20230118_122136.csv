@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Katalon_Test_Suites,Chrome 109.0.0.0,,,2023-01-18 12:21:39,2023-01-18 12:22:22,43.878s,PASSED
+,,,,,,,
+Test Cases/Katalon Test,Chrome 109.0.0.0,,,2023-01-18 12:21:39,2023-01-18 12:22:22,43.536s,PASSED
+"openBrowser("""")",Chrome 109.0.0.0,,,2023-01-18 12:21:39,2023-01-18 12:21:43,3.475s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 109.0.0.0,,,2023-01-18 12:21:43,2023-01-18 12:21:51,7.671s,PASSED
+"click(findTestObject(""Object Repository/Page_Katalon Software Quality Management Platform/a_Log in""))",Chrome 109.0.0.0,,,2023-01-18 12:21:51,2023-01-18 12:21:54,2.988s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in  Katalon Software Quality Mana_cfddb7/input_Welcome back_user_email""), ""sjagtap@kognivera.com"")",Chrome 109.0.0.0,,,2023-01-18 12:21:54,2023-01-18 12:21:56,2.457s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign in  Katalon Software Quality Mana_cfddb7/input_Valid email is required to activate p_255484""), ""dopgMZS9m+09JXg4SNc9zA=="")",Chrome 109.0.0.0,,,2023-01-18 12:21:56,2023-01-18 12:21:57,0.684s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in  Katalon Software Quality Mana_cfddb7/input_Incorrect email or password. Please t_566e02""))",Chrome 109.0.0.0,,,2023-01-18 12:21:57,2023-01-18 12:21:57,0.687s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign in  Katalon Software Quality Mana_cfddb7/input_Valid email is required to activate p_255484""), ""dopgMZS9m+09JXg4SNc9zA=="")",Chrome 109.0.0.0,,,2023-01-18 12:21:57,2023-01-18 12:22:00,2.911s,PASSED
+"click(findTestObject(""Object Repository/Page_My Organization_01 - Katalon TestOps/span_SJ""))",Chrome 109.0.0.0,,,2023-01-18 12:22:00,2023-01-18 12:22:10,9.947s,PASSED
+"click(findTestObject(""Object Repository/Page_My Organization_01 - Katalon TestOps/a_View Profile""))",Chrome 109.0.0.0,,,2023-01-18 12:22:10,2023-01-18 12:22:11,1.184s,PASSED
+"switchToWindowTitle(""My Profile - Katalon Platform"")",Chrome 109.0.0.0,,,2023-01-18 12:22:11,2023-01-18 12:22:16,4.575s,PASSED
+"click(findTestObject(""Object Repository/Page_My Profile - Katalon Platform/p_Log Out""))",Chrome 109.0.0.0,,,2023-01-18 12:22:16,2023-01-18 12:22:18,2.294s,PASSED
+"click(findTestObject(""Object Repository/Page_My Profile - Katalon Platform/button_Log Out""))",Chrome 109.0.0.0,,,2023-01-18 12:22:18,2023-01-18 12:22:22,3.381s,PASSED
+closeBrowser(),Chrome 109.0.0.0,,,2023-01-18 12:22:22,2023-01-18 12:22:22,0.825s,PASSED
