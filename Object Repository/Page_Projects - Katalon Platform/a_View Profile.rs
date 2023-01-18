@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View Profile</name>
+   <tag></tag>
+   <elementGuidId>5eb10a83-ac0d-4e18-b2b9-9336f495925b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn-view-profile.btn.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='user']/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>941af6c5-09e1-4ffa-a47d-0993ff93909e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/api/v1/katone/page/profile</value>
+      <webElementGuid>b93cde15-4c13-4510-b48c-9050b5fbf0d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-view-profile btn btn-primary</value>
+      <webElementGuid>d45096bc-29e2-487a-87eb-1a0e1cb7fe64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-rnd-last-action-id</name>
+      <type>Main</type>
+      <value>b2b5ab34-029b-4e71-8528-5c1a3209b528</value>
+      <webElementGuid>b1a64808-592c-4e4f-9141-b0f01af5de8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View Profile</value>
+      <webElementGuid>81e29e35-fbf4-4cc1-ae8d-93f199a7983b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;user&quot;)/div[@class=&quot;user-profile&quot;]/a[@class=&quot;btn-view-profile btn btn-primary&quot;]</value>
+      <webElementGuid>4bb89e56-68f1-45ae-a0f6-ab0b0e3d0553</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='user']/div/a</value>
+      <webElementGuid>71ff1a68-e78d-46b5-8953-a0feab823ff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View Profile')]</value>
+      <webElementGuid>25e74812-bab7-472b-aa75-7c6467d42ac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sjagtap@kognivera.com'])[1]/following::a[1]</value>
+      <webElementGuid>9586497b-cea8-465c-91f0-6d5a72e29294</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shubham Jagtap'])[1]/following::a[1]</value>
+      <webElementGuid>b0397aa5-d478-4265-85f3-13c1baeb90c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notification Settings'])[1]/preceding::a[1]</value>
+      <webElementGuid>e1ed92f4-c733-4735-bc4b-99b6d884e917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documentation'])[1]/preceding::a[2]</value>
+      <webElementGuid>aa8e784c-becf-49d6-b52c-f763d915f3db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View Profile']/parent::*</value>
+      <webElementGuid>7fd66ea7-9bbf-4bc3-b8d8-30227c1c2ea4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/api/v1/katone/page/profile')]</value>
+      <webElementGuid>df7c2689-306b-458b-95f0-21a6dc624022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/a</value>
+      <webElementGuid>ae333070-48e0-4cd0-8f97-8126ff8e0b7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/api/v1/katone/page/profile' and (text() = 'View Profile' or . = 'View Profile')]</value>
+      <webElementGuid>ba1d8f3a-23e7-4d42-b496-81cc62bce9b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
