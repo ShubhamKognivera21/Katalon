@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the display of Regalo exclusivo online flag in PLP for the softline parent item with Big Ticket  Gift item in WEB/WAP</description>
+   <name>TC_BS_082_gwp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1a11d320-c053-4063-9c9a-d22da779b296</testCaseGuid>
+</TestCaseEntity>

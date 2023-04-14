@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the display and functionality of Borrar filtros  (Remove filter) link in left side facets section on Product Listing Page and search results page</description>
+   <name>TC_BS_391</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c340b894-fe72-4382-9fd3-292f2e49956b</testCaseGuid>
+</TestCaseEntity>

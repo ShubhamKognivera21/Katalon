@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that the user is able to remove the search filtered options by clicking on the appropriate name.</description>
+   <name>TC_BS_056</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f09abdca-23ff-4fe1-9147-abc42697f17d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the display of price  text boxes [ Min-Max] with &quot;$&quot; symbol in Product Listing page and search results page</description>
+   <name>TC_BS_386</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c3a04c0-5841-4d61-8e7b-555aea404a87</testCaseGuid>
+</TestCaseEntity>

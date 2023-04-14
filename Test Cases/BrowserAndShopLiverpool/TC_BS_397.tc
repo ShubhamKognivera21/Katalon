@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the  breadcrumb on PDP  for SL/BT/MAC//lense items.</description>
+   <name>TC_BS_397</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed85ace8-6498-4cf0-a018-85006a2d81a8</testCaseGuid>
+</TestCaseEntity>

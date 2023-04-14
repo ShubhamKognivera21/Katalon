@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the display of Politics , User Manual tab under description sectionsection on PDP page for  SL/BT/MAC/ lense items.</description>
+   <name>TC_BS_422</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15da335d-b67c-4f28-81cd-23b298668a4f</testCaseGuid>
+</TestCaseEntity>

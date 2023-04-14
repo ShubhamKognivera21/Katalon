@@ -1,3 +1,24 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/AccountManagement/span_Hola header_HP",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Mi Cuenta\u0027])[1]/preceding::span[1]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/AccountManagement/span_Hola header_HP_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/1vedant/HP/MujerCategory_HP",
+      "brokenLocator": "//div[@class\u003d\u0027col-lg-10\u0027]/span[contains(text(),\u0027Mujer\u0027)]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027__next\u0027]/header/div[4]/div[3]/div/nav/div/div/div/div/div/ul/li/ul/div/div/li/a/div/div/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/1vedant/HP/MujerCategory_HP_idRelative.png"
+    }
+  ]
 }
